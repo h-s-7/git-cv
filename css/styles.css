@@ -27,7 +27,7 @@ h1,h2,h3,h4,h5,h6{
 .top{
 	background-color: #E4F9F5;
 	position: relative;
-	padding-top: 100px;
+	padding-top: 10%;
 }
 .profile{
 	line-height: 2;
@@ -65,26 +65,27 @@ h1,h2,h3,h4,h5,h6{
 	top: 5%;	
 }
 .mid{
-	padding-top: 100px;
-	padding-bottom: 70px;
+	padding-top: 10%;
+	padding-bottom: 7%;
 }
-.profile-pic{
-	height: 256px;
-	width: 256px;
-	border-radius: 7px;
-}
+
 .skills-row{
 	width: 50%;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: left;
-	margin-top: 100px;
-	margin-bottom: 100px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+.profile-pic{
+	height: 25vw;
+	width: 25vw;
+	border-radius: 7px;
 }
 .prog-pic{
 	width: 20vw;
 	float: left;
-	padding-right: 60px;
+	padding-right: 6vw;
 }
 .ml-pic{
 	width: 20vw;
@@ -101,7 +102,7 @@ a{
 	color: #11999E;
 }
 .bottom{
-	padding-top: 70px;
+	padding-top: 7%;
 	background-color: #E4F9F5;
 }
 .skills-head{
